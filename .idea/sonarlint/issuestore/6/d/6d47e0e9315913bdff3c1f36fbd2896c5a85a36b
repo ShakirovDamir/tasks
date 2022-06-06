@@ -1,0 +1,9 @@
+
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ùÓ„øûÿÿÿÿ8µåÁÆ0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ùÓ„øûÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÀ™8…»Æ0
+2
+java:S1116"Remove this empty statement.(ÒÀ™
+`
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Èñ¾„ıÿÿÿÿ
